@@ -1,4 +1,4 @@
-package Maybe
+package maybe
 
 import io.reactivex.Maybe
 import io.reactivex.disposables.CompositeDisposable
